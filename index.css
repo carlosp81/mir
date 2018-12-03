@@ -8,7 +8,7 @@ body {
 }
 
 #hero {
-  background-image: url(src/img/cave-desktop-backgrounds-dolomites.jpg);
+  background-image: url(cave-desktop-backgrounds-dolomites.jpg);
   background-size: cover;
   background-position: center center;
   position: relative;
